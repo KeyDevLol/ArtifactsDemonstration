@@ -6,7 +6,7 @@ using OpenTK.Mathematics;
 using OpenTK.Windowing.Common;
 using OpenTK.Windowing.Desktop;
 
-//https://github.com/StbSharp/StbImageSharp?tab=readme-ov-file
+//https://github.com/StbSharp/StbImageSharp
 // NuGet\Install-Package StbImageSharp -Version 2.30.15
 using StbImageSharp;
 
